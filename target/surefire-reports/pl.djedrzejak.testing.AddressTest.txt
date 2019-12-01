@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: pl.djedrzejak.testing.AddressTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.165 s - in pl.djedrzejak.testing.AddressTest

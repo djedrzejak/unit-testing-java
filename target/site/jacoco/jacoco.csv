@@ -1,0 +1,10 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+unit-testing-java,default,Test,26,0,2,0,9,0,4,0,3,0
+unit-testing-java,default,Calc,7,0,0,0,2,0,2,0,2,0
+unit-testing-java,pl.djedrzejak.testing,Meal,46,107,9,11,12,29,8,11,1,8
+unit-testing-java,pl.djedrzejak.testing,Cart,0,70,0,2,0,15,0,6,0,5
+unit-testing-java,pl.djedrzejak.testing,OrderStatus,0,34,0,0,0,2,0,1,0,1
+unit-testing-java,pl.djedrzejak.testing,Account,0,30,1,1,0,14,1,6,0,6
+unit-testing-java,pl.djedrzejak.testing,Address,0,9,0,0,0,4,0,1,0,1
+unit-testing-java,pl.djedrzejak.testing,OrderBackup,3,36,0,0,1,10,1,4,1,4
+unit-testing-java,pl.djedrzejak.testing,Order,0,39,0,0,0,10,0,6,0,6
